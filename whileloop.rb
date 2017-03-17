@@ -10,3 +10,5 @@ while user_input == "serdar"
 
 	break if i == 5
 end
+
+"hi"
